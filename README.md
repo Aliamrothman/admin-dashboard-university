@@ -51,10 +51,7 @@ The dashboard provides complete management tools for products, orders, customers
 ---
 
 ## Live Demo
-Add your GitHub Pages link here after deployment  
-Example:  
-https://yourusername.github.io/admin-dashboard-university/
-
+https://aliamrothman.github.io/admin-dashboard-university/
 ---
 
 ## Installation
