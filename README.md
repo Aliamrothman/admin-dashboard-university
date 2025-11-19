@@ -1,153 +1,72 @@
-Admin Dashboard University
+# Admin Dashboard University
 
-React 19 • Vite • Tailwind CSS • JavaScript
+A modern and fully responsive E-commerce Admin Dashboard built with React 19, Vite, and TailwindCSS.  
+The dashboard provides complete management tools for products, orders, customers, analytics, employees, and more — all built using clean architecture and reusable components.
 
-A modern and responsive university administration dashboard for managing students, staff, courses, departments, schedules, and analytics.
+---
 
-Table of Contents
+## Features
 
-Features
+### Core Functionality
+- Dashboard overview with KPIs (Revenue, Orders, Customers, Inventory)
+- Product management (Add, Edit, Delete, Update Stock)
+- Order management with status flow (Pending → Processing → Shipped → Delivered)
+- Customer management with profiles, purchase history, and regional data
+- Employee management (Roles, departments, salaries)
+- Analytics dashboard with interactive charts
+- Global search and advanced filtering
+- Real-time notifications for stock levels, orders, and activities
 
-Tech Stack
+### UI and Experience
+- Dark and Light modes
+- Six professional color themes
+- Dynamic theme engine using CSS variables
+- Fully responsive layout (mobile, tablet, desktop)
+- Smooth animations and transitions
+- Organized sidebar and top navigation
+- Reusable components across the application
 
-Quick Start
+### Technical Features
+- Vite-powered development environment
+- Zustand for global state management with persistence
+- Hot Module Replacement (HMR)
+- Recharts for data visualizations
+- Clean architecture with modular components
+- ESLint and code quality tools
 
-Installation
+---
 
-Deployment
+## Tech Stack
 
-Theme System
+| Category | Technologies |
+|---------|--------------|
+| Frontend | React 19, JavaScript (ES6+), Vite |
+| UI/Styling | TailwindCSS, Lucide Icons |
+| State Management | Zustand |
+| Notifications | React-Hot-Toast |
+| Charts | Recharts |
+| Calendar & Kanban | React Big Calendar, @hello-pangea/dnd |
+| Utilities | Moment.js |
 
-Responsive Design
+---
 
-Configuration
+## Live Demo
+Add your GitHub Pages link here after deployment  
+Example:  
+https://yourusername.github.io/admin-dashboard-university/
 
-Contributing
+---
 
-License
+## Installation
 
-Features
-🎓 University Management
-
-Students Dashboard: Enrollment status, grades, progress tracking
-
-Courses Management: Course lists, categories, capacity, and instructors
-
-Departments: Faculties, staff members, and department analytics
-
-Staff Management: Roles, salaries, contact information
-
-Schedules: Timetables for students and staff
-
-Attendance Tracking: Daily/weekly attendance insights
-
-Notifications System: Real-time alerts for changes, updates, and events
-
-🎨 UI/UX Features
-
-Dark / Light mode
-
-6 color themes
-
-Sidebar navigation
-
-Responsive charts
-
-Smooth animations
-
-Accessible UI
-
-Tech Stack
-
-React 19
-
-Vite
-
-Tailwind CSS
-
-React Router DOM
-
-Zustand
-
-Recharts
-
-Lucide Icons
-
-Quick Start
-# Clone the repository
-git clone https://github.com/Aliamrothman/admin-dashboard-university.git
-
-# Navigate into the folder
-cd admin-dashboard-university
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open browser at:
-# http://localhost:5173
-
-Installation
-Prerequisites
-
-Node.js 18+
-
-npm 9+
-
-Any modern browser
-
-Steps
-git clone https://github.com/Aliamrothman/admin-dashboard-university.git
+```bash
+git clone https://github.com/yourusername/admin-dashboard-university.git
 cd admin-dashboard-university
 npm install
 npm run dev
+```
 
 
-To build production:
 
-npm run build
-npm run preview
-
-Deployment
-Deploy on Vercel
-npm install -g vercel
-vercel login
-vercel --prod
-
-Theme System
-
-Switch between:
-
-Light mode
-
-Dark mode
-
-Multiple color palettes
-
-Themes apply instantly across the dashboard.
-
-Responsive Design
-
-Breakpoints:
-
-Mobile (320–767px)
-
-Tablet (768–1023px)
-
-Desktop (1024–1439px)
-
-Large Desktop (1440px+)
-
-All dashboard sections adapt automatically.
-
-Contributing
-
-Fork the repository
-
-Create a feature branch
-
-Commit & push
-
-Create a Pull Request
+ذذذ
+ذذ
